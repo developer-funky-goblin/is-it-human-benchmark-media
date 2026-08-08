@@ -1,0 +1,7 @@
+Nuclear fusion, the process of combining atomic nuclei to release energy, has long been touted as a potential clean and virtually limitless source of power. However, despite decades of research, commercial fusion power remains elusive. Here are 5 reasons why fusion is hard:
+
+1. **Extreme conditions required**: Fusion reactions require extremely high temperatures (over 100 million degrees Celsius) and pressures to occur, conditions that are difficult to achieve and maintain on Earth.
+2. **Plasma confinement**: At these temperatures, matter exists as plasma, an ionized gas that is notoriously difficult to confine and control using magnetic or inertial confinement methods.
+3. **Energy balance**: Achieving a fusion reaction that produces more energy than it consumes (net energy gain) has proven extremely challenging, with most experiments so far consuming more energy than they produce.
+4. **Material challenges**: The reactor walls must withstand intense heat, neutron bombardment, and other harsh conditions over long periods without degrading.
+5. **Cost and scale**: Building the massive, complex infrastructure needed for fusion reactors is enormously expensive, requiring sustained investment over many years before any payoff.

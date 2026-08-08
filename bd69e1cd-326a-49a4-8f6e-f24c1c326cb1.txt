@@ -1,0 +1,7 @@
+Right, most YouTube videos don't require login to watch -- but "publicly viewable in a browser" and "has a direct URL a server can fetch" are different things, and that's the actual constraint.
+
+When you watch a YouTube video, your browser isn't hitting one stable .mp4 URL. YouTube serves video as adaptive bitrate streams (DASH/HLS): the actual media lives at signed, expiring, IP/session-tied URLs that YouTube's player negotiates via JavaScript at watch time. There's no https://youtube.com/.../video.mp4 you can hand to SightEngine and have it GET the bytes -- that's true whether the video is public or unlisted or private. The "no login needed" part is about the webpage, not about there being a stable file URL underneath it.
+
+Tools like yt-dlp work around this by reverse-engineering those signed URLs on the fly. That's exactly the technique the spec's rejected "far-future" proposal considered (yt-dlp + ffmpeg frame extraction) -- and it's exactly what got it rejected: YouTube's ToS explicitly prohibits downloading video except where they provide an explicit download button, so the extraction step itself is the ToS violation, not just the redistribution. The "server never touches raw media bytes" architecture principle is the second, independent reason it's off the table.
+
+So the constraint isn't about who can view the video -- it's that nothing publicly exposes a real file URL to fetch, on any YouTube video, public or not.

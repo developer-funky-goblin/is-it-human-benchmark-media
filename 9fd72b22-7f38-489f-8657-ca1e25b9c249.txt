@@ -1,0 +1,3 @@
+Netscape 6.0 is finally going into its first public beta. There never was a version 5.0. The last major release, version 4.0, was released almost three years ago. Three years is an awfully long time in the Internet world. During this time, Netscape sat by, helplessly, as their market share plummeted.
+
+It's a bit smarmy, and clich, to criticize Netscape for making this mistake. So they made a mistake. Let's move on. But there's a strange thing here. The Netscape people were not idiots. They were, actually, quite good programmers. So how did such a smart group of programmers make such a strategic mistake?

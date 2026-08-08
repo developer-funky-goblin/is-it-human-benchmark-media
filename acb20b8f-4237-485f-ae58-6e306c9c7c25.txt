@@ -1,0 +1,15 @@
+ChatGPT wrote this, but it is basically the argument I'm making:
+
+1. Functional Definition of AGI
+
+If AGI is defined functionally -- as a system that can perform most cognitive tasks a human can, across diverse domains, without retraining -- then GPT-4/5 arguably qualifies:
+
+It can write code, poetry, academic papers, and legal briefs.
+
+It can reason through complex problems, explain them, and even teach new skills.
+
+It can adapt to new domains using only language (without retraining), which is analogous to human learning via reading or conversation.
+
+In this view, GPT-5 isn't just a language model -- it's a general cognitive engine expressed through text.
+
+Again I think the common argument is more a religious argument than a practical one. Yes I acknowledge this doesn't meet the frontier definition of AGI, but that's because it would be sad if it was the case, not because there's any actual practical sense that we'll get to the sci-fi definition. This view that ChatGPT is already performing most tasks reasonably at the edge of beyond human ability is true.

@@ -1,0 +1,3 @@
+My personal experience with story points is that the number never really mattered, but the process of the team discussing how to rate the complexity of a task was very useful. In terms of having utility of estimating how long something will take, I personally have never been able to translate story points into a reliable indicator for that for many reasons (e.g team changing, domain changing, variability in operational load outside of development work).
+
+Overall I tend to avoid using story points, but on the few teams I worked on who really wanted to use it, I always framed it around building shared understanding rather than a metric that is actually useful for estimating work.

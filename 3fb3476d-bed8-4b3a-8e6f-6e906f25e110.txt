@@ -1,0 +1,13 @@
+To model the price impacts of reciprocal tariffs between the U.S. and Canada, we must analyze trade dynamics, elasticity of demand/supply, substitutability, and sector-specific vulnerabilities.
+
+### Key Factors:
+1. **Tariff rate and coverage** -- what percentage of bilateral trade is affected, and at what rate.
+2. **Elasticity of demand** -- how substitutable the affected goods are with domestic or third-country alternatives.
+3. **Currency effects** -- exchange rate shifts can partially offset or amplify tariff-driven price changes.
+4. **Sector concentration** -- industries reliant on cross-border supply chains (autos, agriculture, energy) see outsized effects.
+
+### Estimated Outcomes:
+- Goods with low substitutability (e.g. specialized industrial inputs) could see price increases toward the higher end of the range.
+- Goods with many alternative suppliers would see smaller, more muted price effects.
+
+**Conclusion:** Based on historical tariff pass-through rates and current trade elasticity estimates, price impacts could range from **10-30%** for vulnerable goods.

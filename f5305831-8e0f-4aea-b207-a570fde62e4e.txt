@@ -1,0 +1,11 @@
+In C, macros are expanded recursively by the preprocessor before compilation. When the preprocessor encounters a macro invocation, it substitutes the macro's definition in place of the invocation, and then re-scans the resulting text for any further macro invocations that might now be present.
+
+For example, given:
+
+#define A B
+#define B C
+#define C 42
+
+A line containing `A` expands first to `B`, which is then re-scanned and expands to `C`, which is re-scanned again and expands to `42`. The preprocessor keeps expanding until no more macro names are found in the output, with one important safeguard: a macro is not re-expanded within its own expansion, which prevents infinite recursion in cases like `#define X X + 1`.
+
+Function-like macros follow the same rule but additionally substitute their arguments (also fully macro-expanded first, in most cases) into the macro body before the whole result is rescanned.

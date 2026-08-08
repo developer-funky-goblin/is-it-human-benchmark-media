@@ -1,0 +1,11 @@
+Gist as a blogging platform
+
+Introduction
+
+I've been meaning to write myself a blog for a while. As my roommate described, it would have several benefits: Helps keep you organized and distills things you've learned or thought about recently. Lets you offload ideas from your mind. Lets you reference those ideas later. Ever have that moment where you remember solving something, but don't remember how? Lets you get exposure for your thoughts.
+
+It occured to me today that Gist makes the perfect platform for blogs like these. Why?
+
+Advantages
+
+One of the major barriers to entry for writing a blog for me was finding/writing the software, configuring wordpress, or something of the sort, and then finding a cheap/free host for it and maintaining it. Gist hosts my content for me. Gist supports markdown! This means I can have some pretty formatting instead of just text files. I can embedd images and code as well! (No LaTeX support unfortunately)

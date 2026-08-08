@@ -1,0 +1,5 @@
+I'm updating bbpress.rb to have it deal with attachments (now it inserts a link to the attachment on the original site) and create permalinks for the old URLs.
+
+The old format is /forums/topic/slug. For anyone who knows how to write an Nginx redirect, it's pretty simple to redirect that to /t/slug and be done with it. OTOH at this particular instant, it is faster for me to add code to the importer to create those permalinks.
+
+Question: Is there any reason not to create a permalink for every topic?
